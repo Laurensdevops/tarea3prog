@@ -39,7 +39,7 @@ const Auth = () => {
     } catch (error) {
       toast({
         title: 'Error',
-        description: 'Algo salió mal. Inténtalo de nuevo.',
+        description: 'Algo salió mal. Pof favor Inténtalo de nuevo.',
         variant: 'destructive',
       });
     } finally {
@@ -62,7 +62,7 @@ const Auth = () => {
       } else {
         toast({
           title: 'Éxito',
-          description: 'Cuenta creada. Revisa tu email para confirmar.',
+          description: 'Cuenta creada. Pro favor confirma tu email para confirmar.',
         });
       }
     } catch (error) {
