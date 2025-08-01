@@ -22,7 +22,7 @@ interface InventoryFormProps {
   item?: InventoryItem | null;
   onClose: () => void;
 }
- 
+  
 const InventoryForm = ({ item, onClose }: InventoryFormProps) => {
   const [formData, setFormData] = useState({
     name: '',
