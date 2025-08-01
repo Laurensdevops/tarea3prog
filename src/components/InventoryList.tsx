@@ -92,7 +92,7 @@ const InventoryList = ({ onEdit }: InventoryListProps) => {
   );
 
   if (loading) {
-    return <div className="text-center py-8">Cargando inventario...</div>;
+    return <div className="text-center py-8">Cargando inventario Por favor espere un momento...</div>;
   }
 
   return (
