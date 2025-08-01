@@ -47,7 +47,7 @@ const Index = () => {
           <Card className="text-center">
             <CardHeader>
               <ShoppingCart className="h-12 w-12 text-primary mx-auto mb-4" />
-              <CardTitle>Gestión de Productos</CardTitle>
+              <CardTitle>Gestióna tus Productos</CardTitle>
             </CardHeader>
             <CardContent>
               <CardDescription>
