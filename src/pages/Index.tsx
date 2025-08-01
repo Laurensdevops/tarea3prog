@@ -51,7 +51,7 @@ const Index = () => {
             </CardHeader>
             <CardContent>
               <CardDescription>
-                Agrega, edita y elimina productos fácilmente. Control completo de tu inventario.
+                Agrega, edita y elimina productos fácilmente. Control completo de tu inventario en un mismo lugar.
               </CardDescription>
             </CardContent>
           </Card>
