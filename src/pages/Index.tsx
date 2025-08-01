@@ -38,7 +38,7 @@ const Index = () => {
             Control total de productos, stock y reportes en tiempo real.
           </p>
           <Button asChild size="lg" className="text-lg px-8 py-6">
-            <a href="/auth">Comenzar Ahora</a>
+            <a href="/auth">Entra al panel</a>
           </Button>
         </div>
 
