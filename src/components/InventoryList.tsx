@@ -84,7 +84,7 @@ const InventoryList = ({ onEdit }: InventoryListProps) => {
       });
     }
   };
-
+ 
   const filteredItems = items.filter(item =>
     item.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
     item.category.toLowerCase().includes(searchTerm.toLowerCase()) ||
