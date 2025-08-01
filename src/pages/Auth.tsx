@@ -39,7 +39,7 @@ const Auth = () => {
     } catch (error) {
       toast({
         title: 'Error',
-        description: 'Algo salió mal. Inténtalo de nuevo.',
+        description: 'Algo salió mal. Pof favor Inténtalo de nuevo.',
         variant: 'destructive',
       });
     } finally {
