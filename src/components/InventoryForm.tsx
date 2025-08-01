@@ -141,7 +141,7 @@ const InventoryForm = ({ item, onClose }: InventoryFormProps) => {
           </div>
 
           <div className="space-y-2">
-            <Label htmlFor="category">Categoría</Label>
+            <Label htmlFor="category"></Label>
             <Input
               id="category"
               value={formData.category}
