@@ -31,10 +31,10 @@ const Index = () => {
             <Package className="h-16 w-16 text-primary" />
           </div>
           <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-            Sistema de Inventario
+            Sistema de Inventario Christofer Laurencio 
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Gestiona tu inventario de manera eficiente con nuestro sistema CRUD completo. 
+            Gestiona tu inventario de manera eficiente con nuestro sistema completo. 
             Control total de productos, stock y reportes en tiempo real.
           </p>
           <Button asChild size="lg" className="text-lg px-8 py-6">
