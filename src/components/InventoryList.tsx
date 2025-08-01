@@ -120,7 +120,7 @@ const InventoryList = ({ onEdit }: InventoryListProps) => {
             <TableHeader>
               <TableRow>
                 <TableHead>Producto</TableHead>
-                <TableHead>SKU</TableHead>
+                <TableHead>Codigo</TableHead>
                 <TableHead>Categoría</TableHead>
                 <TableHead>Cantidad</TableHead>
                 <TableHead>Precio</TableHead>
