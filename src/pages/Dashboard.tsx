@@ -38,7 +38,7 @@ const Dashboard = () => {
           <div className="flex items-center space-x-4">
             <Package className="h-8 w-8 text-primary" />
             <div>
-              <h1 className="text-2xl font-bold">Sistema de Inventario</h1>
+              <h1 className="text-2xl font-bold">Laurens Devops by christofere Laurencio</h1>
               <p className="text-sm text-muted-foreground">
                 Bienvenido, {user?.email}
               </p>
